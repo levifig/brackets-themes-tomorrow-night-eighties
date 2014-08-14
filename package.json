@@ -1,0 +1,20 @@
+{
+    "title": "Tomorrow Night Eighties",
+    "name": "tomorrow-night-eighties",
+    "description": "Tomorrow Night Eighties theme for Brackets",
+    "version": "1.0.2",
+    "author": "Levi Figueira <levi@hakr.io> (http://github.com/levifig)",
+    "homepage": "https://github.com/Brackets-Themes/TomorrowNightEighties",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/TomorrowNightEighties.git"
+    },
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "tomorrow-night-eighties.css",
+        "dark": true
+    },
+    "screenshot": "tomorrow-night-eighties-screenshot-css.png"
+}
